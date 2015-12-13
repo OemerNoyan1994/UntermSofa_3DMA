@@ -1,0 +1,11 @@
+canape_1 
+http://www.blender-models.com/model-downloads/furniture/id/sofa-2/
+
+mix-table
+http://www.blender-models.com/model-downloads/mechanicalelectronical/electronical-objects/id/mix-table/
+
+beer-bottle
+http://www.blender-models.com/model-downloads/objects/id/beer-bottle/
+
+realistic-watch
+http://www.blender-models.com/model-downloads/objects/id/realistic-watch/
